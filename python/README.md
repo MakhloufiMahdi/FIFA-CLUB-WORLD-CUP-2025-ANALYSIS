@@ -11,7 +11,6 @@ The collected data covers: **group standings**, **player performances**, and **t
 - Retrieves complete group standings (positions, matches played, wins, draws, losses, goals, points, etc.).
 - Saves results in a CSV file:  
   **`all_groups_standings.csv`**
-- Example of exported columns:
 
 ---
 
@@ -24,7 +23,7 @@ The collected data covers: **group standings**, **player performances**, and **t
 
 ---
 
-### 3️⃣ Top Teams – `top_teams_scraper.py`
+### 3️⃣ Top Teams –
 - Retrieves overall team statistics (goals scored, shots, possession, etc. according to SofaScore).  
 
 ---
