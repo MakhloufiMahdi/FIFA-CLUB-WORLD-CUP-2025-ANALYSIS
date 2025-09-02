@@ -24,7 +24,7 @@ Each page is broken down with KPIs, team comparisons, and strategic insights.
 
 ### Top scorers
 - 4 players with 4 goals (Di María, García, Marcos Leonardo, Guirassy).  
-👉 No single “Golden Boot” star → scoring is **collectively spread**.  
+👉 No single  star → scoring is **collectively spread**.  
 
 ### Big Chances
 - Europe (189) >>> Americas (54) >>> Asia (28) ≈ Africa (26) >>> Oceania (18).  
@@ -55,7 +55,19 @@ Al Ahly, Mamelodi Sundowns, Wydad Casablanca, Espérance Tunis.
 - Al Ahly: 51% (balanced).  
 - Espérance: 65% (sterile, only 1 goal).  
 - Sundowns: 39.7% (direct style).  
-- Wydad: 32.3% (pragmatic).  
+- Wydad: 32.3% (pragmatic).
+- 
+### Direct within-region comparisons
+- **Al Ahly vs Sundowns**  
+  - Both scored 4 goals, but effectiveness differs:  
+    - Al Ahly → 12 chances, only 4 goals → **~33% conversion**.  
+    - Sundowns → 7 chances, 4 goals → **~57% conversion**.  
+  👉 *Sundowns are more efficient but less creative; Al Ahly creates more but is less clinical.*
+
+- **Espérance vs Wydad**  
+  - Espérance = very high possession (~65%) but only **1 goal**.  
+  - Wydad = lower possession (~32%) and **2 goals** from **5 BC**.  
+  👉 *Espérance controls the ball but struggles to convert; Wydad is more pragmatic and gets returns from fewer chances.*
 
 📌 **Conclusion**:  
 - **Creation** = Al Ahly.  
@@ -113,10 +125,14 @@ Al-Hilal, Al-Ain, Ulsan HD, Urawa Red Diamonds.
 - Low continental average (30–37%).  
 👉 Reliance on **fast transitions**, not control.  
 
-### Internal comparison
-- **Volume**: Al-Hilal.  
-- **Clinical**: Urawa (67% conversion but very low volume).  
-- **Weak shooting quality**: Al-Ain & Ulsan.  
+### Internal snapshot
+- **Al Hilal vs the others**  
+  - Al Hilal = **8 goals** (more than the other three combined), **17 BC**, **47% conversion**.  
+  - Al Ain = 2 goals, 9 SoT → **22%** conversion.  
+  - Ulsan = 2 goals, 11 SoT → **18%** conversion.  
+  - Urawa = 2 goals, 3 BC → **67%** conversion (very low volume).  
+  👉 *Al Hilal structurally dominates; Urawa is an opportunistic outlier (low volume, high conversion).*
+ 
 
 📌 **Conclusion**:  
 **Asia = Al-Hilal + 3 minor actors.**  
@@ -144,11 +160,22 @@ Flamengo, Fluminense, River, Palmeiras, Monterrey, Boca, Pachuca, Botafogo.
 - Flamengo (59.5%), Monterrey (53.8%).  
 - Argentine clubs more direct (<50%).  
 
-### Comparisons
-- Flamengo > Fluminense (volume + efficiency).  
-- Monterrey = **“European style”** (possession + balance).  
-- Boca = **hyper-clinical** (67% conversion, low volume).  
-- River = wasteful (37% conversion).  
+ ### Detailed comparisons
+- **Flamengo vs Fluminense**  
+  - Both 8 goals, but Flamengo creates more (13 BC) → **better production**.  
+  - Conversion approx: Flamengo ~**46%**, Fluminense ~**40%**.  
+  👉 *Flamengo shows greater offensive power than Fluminense.*
+
+- **Monterrey vs Palmeiras**  
+  - Both have 6 goals. Monterrey plays with higher possession (~53.8%) — more “European” style.  
+  - Palmeiras plays more direct, has lower possession and lower conversion.  
+  👉 *Monterrey = more balanced; Palmeiras = more volatile/less efficient.*
+
+- **Boca vs River**  
+  - Boca: low volume (3 BC) but **~67% conversion**.  
+  - River: 8 BC but only 3 goals → **~37.5% conversion**.  
+  👉 *Boca = maximum efficiency with few chances; River = high creation but poor finishing.*
+
 
 📌 **Conclusion**:  
 - **Flamengo = locomotive**.  
@@ -180,11 +207,16 @@ Inter Miami, Seattle Sounders, Los Angeles FC, Auckland City.
 - Low: 30–43%.  
 👉 Reactive style, not possession-based.  
 
-### Comparisons
-- Inter Miami = productive but inefficient (25% conversion).  
-- Seattle = low volume but more effective (50%).  
-- Auckland = exposed defensively (17 goals conceded).  
-- LAFC = no offensive impact.  
+### Head-to-head style notes
+- **Inter Miami vs Seattle**  
+  - Inter Miami: 8 BC, 6 goals, but also 6 missed BC → **~25% conversion**.  
+  - Seattle: 4 BC, 2 goals → **~50% conversion**.  
+  👉 *Miami relies on star power but is inefficient; Seattle gets more from fewer chances.*
+
+- **LAFC vs Auckland**  
+  - LAFC: 0 goals despite 5 missed BC → *complete attacking failure*.  
+  - Auckland: 6 BC, 2 goals (~33% conversion) but **very poor defense (17 goals conceded)**.  
+  👉 *Auckland is productive but defensively fragile; LAFC offers almost no offensive output.*
 
 📌 **Conclusion**:  
 Level is too low to compete globally.  
