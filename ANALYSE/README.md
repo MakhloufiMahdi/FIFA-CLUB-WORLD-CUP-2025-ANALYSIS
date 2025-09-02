@@ -231,7 +231,3 @@ Only Inter Miami shows minimal competitiveness, but overly dependent on a single
 - **Africa & Asia** = create but lack finishing quality.  
 - **North America & Oceania** = far below the global standard.  
 
-💡 **Key transversal factor: Big Chance conversion rate**  
-- Clinical: **Chelsea, Flamengo**.  
-- Wasteful: **Real Madrid, Dortmund, Inter Miami**.  
-
